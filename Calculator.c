@@ -1,3 +1,5 @@
+// Calculator
+
 #include <stdio.h>
 
 int main() {
@@ -36,6 +38,5 @@ int main() {
   }
 
   printf("%.2f %c %.2f = %.2f\n", num1, operator, num2, result);
-
-  return 0;
+  
 }
